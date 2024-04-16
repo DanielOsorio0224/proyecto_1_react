@@ -117,3 +117,11 @@ body{
     background: #444;
     color: white;
 }
+
+#slider.slider-small{
+    height: 150px;
+}
+
+#slider.slider-small h1{
+    padding-top: 50px;
+}
